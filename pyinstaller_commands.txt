@@ -1,0 +1,2 @@
+pyinstaller --name="apas" --onefile --log-level="DEBUG" cli.py  # onefile only works if terminal is enabled
+pyinstaller --name="apas" --onedir --log-level="DEBUG" -w cli.py

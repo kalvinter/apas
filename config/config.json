@@ -1,0 +1,1 @@
+{"RETRY_LIMIT": 3, "COOLDOWN_TIME_FOR_RETRY": 7, "VERBOSE_OUTPUT": "Standard", "BrowseNodeCrawler": {"books": {"INCLUDED_MAIN_CATEGORIES": ["Biografien & Erinnerungen"], "SPECIFIC_SUB_CATEGORIES": []}, "kindle_books": {"INCLUDED_MAIN_CATEGORIES": ["B\u00f6rse & Geld"], "SPECIFIC_SUB_CATEGORIES": ["Action & Abenteuer [6692008031]"]}}, "PRODUCT_LIMIT": 0}
